@@ -8,7 +8,7 @@ Script helps detect duplicates of file in specified directory.
 
 ## Quick start
 
- - Run duplicates.py 'python3.5 duplicates.py'
+ - Run duplicates.py `python3.5 duplicates.py`
  - **Input**: Directory path, which you want to scan
  - **Output**: List of files which has duplicates and all full paths
 
